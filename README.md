@@ -14,8 +14,8 @@ The data set consists of records created in each sales transaction. This means t
 In other words, a user with certain demographic characteristics may have made more than one purchase.
 
 # Features:
-*PRICE - Customer spend amount
-*SOURCE - The type of device the customer is connecting to
-*SEX - Customer's gender
-*COUNTRY - Customer's country
-*AGE - Customer's age
+* PRICE - Customer spend amount
+* SOURCE - The type of device the customer is connecting to
+* SEX - Customer's gender
+* COUNTRY - Customer's country
+* AGE - Customer's age
